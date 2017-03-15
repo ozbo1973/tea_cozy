@@ -68,3 +68,30 @@ nav span {
 	margin: auto;
 	width 100%;
 }
+
+#featured {
+	height: 700px;
+	width: 1000px;
+	margin: auto;
+	padding-top: 70px;
+}
+
+.item {
+	padding: 5px;
+}
+
+.item img {
+	display: block;
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+}
+
+.item span {
+	display: block;
+	padding: 5px;
+	font-weight: bold;
+	text-align: center;
+}
+	
+	
